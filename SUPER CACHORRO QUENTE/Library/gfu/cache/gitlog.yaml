@@ -12,6 +12,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   log:
+  - CommitID: 94777c301eb61f546615ef07590b8f7e205e2579
+    MergeA: 
+    MergeB: 
+    AuthorName: phtriplox
+    AuthorEmail: phtriplox8090@gmail.com
+    CommitEmail: phtriplox8090@gmail.com
+    CommitName: phtriplox
+    Summary: p
+    Description: p
+    TimeString: 8/14/2017 11:12:12 PM -03:00
+    CommitTimeString: 8/14/2017 11:12:12 PM -03:00
+    Changes:
+    - Path: .gitignore
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\.gitignore
+      ProjectPath: ..\.gitignore
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: SUPER CACHORRO QUENTE\Library\gfu\cache\gitlog.yaml
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\gfu\cache\gitlog.yaml
+      ProjectPath: Library\gfu\cache\gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
   - CommitID: 592e5a7ed37b3a17e18179372d7b3550800484f3
     MergeA: 
     MergeB: 
