@@ -12,6 +12,132 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   log:
+  - CommitID: 592e5a7ed37b3a17e18179372d7b3550800484f3
+    MergeA: 
+    MergeB: 
+    AuthorName: phtriplox
+    AuthorEmail: phtriplox8090@gmail.com
+    CommitEmail: phtriplox8090@gmail.com
+    CommitName: phtriplox
+    Summary: p
+    Description: p
+    TimeString: 8/14/2017 11:08:16 PM -03:00
+    CommitTimeString: 8/14/2017 11:08:16 PM -03:00
+    Changes:
+    - Path: "CACHORRO QUENTE\\Temp\\UnityTempFile-0454633747fd78c45bc5b55f57693019\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-295223196f1bf8149ac2714413911b53"
+      FullPath: "C:\\Users\\phtri\\Documents\\GitHub\\Dactics\\CACHORRO QUENTE\\Temp\\UnityTempFile-0454633747fd78c45bc5b55f57693019\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-295223196f1bf8149ac2714413911b53"
+      ProjectPath: "..\\CACHORRO QUENTE\\Temp\\UnityTempFile-0454633747fd78c45bc5b55f57693019\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-295223196f1bf8149ac2714413911b53"
+      OriginalPath: SUPER
+      Status: 6
+      Staged: 0
+    - Path: "CACHORRO QUENTE\\Temp\\UnityTempFile-59eaef5d10e4fb74881c91b290b6adeb\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-3ef6bbf0edce5cf459b469597bdd0aab"
+      FullPath: "C:\\Users\\phtri\\Documents\\GitHub\\Dactics\\CACHORRO QUENTE\\Temp\\UnityTempFile-59eaef5d10e4fb74881c91b290b6adeb\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-3ef6bbf0edce5cf459b469597bdd0aab"
+      ProjectPath: "..\\CACHORRO QUENTE\\Temp\\UnityTempFile-59eaef5d10e4fb74881c91b290b6adeb\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-3ef6bbf0edce5cf459b469597bdd0aab"
+      OriginalPath: SUPER
+      Status: 6
+      Staged: 0
+    - Path: "CACHORRO QUENTE\\Temp\\UnityTempFile-ccc74f9079697964d880e370d54f68cc\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-4c37e636db29bcc49a213afef5f143a8"
+      FullPath: "C:\\Users\\phtri\\Documents\\GitHub\\Dactics\\CACHORRO QUENTE\\Temp\\UnityTempFile-ccc74f9079697964d880e370d54f68cc\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-4c37e636db29bcc49a213afef5f143a8"
+      ProjectPath: "..\\CACHORRO QUENTE\\Temp\\UnityTempFile-ccc74f9079697964d880e370d54f68cc\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-4c37e636db29bcc49a213afef5f143a8"
+      OriginalPath: SUPER
+      Status: 6
+      Staged: 0
+    - Path: "CACHORRO QUENTE\\Temp\\UnityTempFile-d6268a94646f9df40b931f30519e85aa\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-77f1390c110b15f47a938e4719a7a8f4"
+      FullPath: "C:\\Users\\phtri\\Documents\\GitHub\\Dactics\\CACHORRO QUENTE\\Temp\\UnityTempFile-d6268a94646f9df40b931f30519e85aa\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-77f1390c110b15f47a938e4719a7a8f4"
+      ProjectPath: "..\\CACHORRO QUENTE\\Temp\\UnityTempFile-d6268a94646f9df40b931f30519e85aa\tSUPER
+        CACHORRO QUENTE\\Temp\\UnityTempFile-77f1390c110b15f47a938e4719a7a8f4"
+      OriginalPath: SUPER
+      Status: 6
+      Staged: 0
+  - CommitID: ad849ffa70f62da8666f197b5196ff3e4e4de19a
+    MergeA: 
+    MergeB: 
+    AuthorName: phtriplox
+    AuthorEmail: phtriplox8090@gmail.com
+    CommitEmail: phtriplox8090@gmail.com
+    CommitName: phtriplox
+    Summary: p
+    Description: p
+    TimeString: 8/14/2017 11:08:07 PM -03:00
+    CommitTimeString: 8/14/2017 11:08:07 PM -03:00
+    Changes:
+    - Path: SUPER CACHORRO QUENTE\Assets\h.unity
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Assets\h.unity
+      ProjectPath: Assets\h.unity
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+  - CommitID: 124f7ca415e3846affef1212ab96a44a9bc14eae
+    MergeA: 
+    MergeB: 
+    AuthorName: phtriplox
+    AuthorEmail: phtriplox8090@gmail.com
+    CommitEmail: phtriplox8090@gmail.com
+    CommitName: phtriplox
+    Summary: p
+    Description: p
+    TimeString: 8/14/2017 11:08:01 PM -03:00
+    CommitTimeString: 8/14/2017 11:08:01 PM -03:00
+    Changes:
+    - Path: SUPER CACHORRO QUENTE\Library\CurrentLayout.dwlt
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\CurrentLayout.dwlt
+      ProjectPath: Library\CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: SUPER CACHORRO QUENTE\Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll
+      ProjectPath: Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: SUPER CACHORRO QUENTE\Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll
+      ProjectPath: Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: SUPER CACHORRO QUENTE\Library\assetDatabase3
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\assetDatabase3
+      ProjectPath: Library\assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: SUPER CACHORRO QUENTE\Library\gfu\cache\gitlog.yaml
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\gfu\cache\gitlog.yaml
+      ProjectPath: Library\gfu\cache\gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: SUPER CACHORRO QUENTE\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+      ProjectPath: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: SUPER CACHORRO QUENTE\Library\metadata\67\67e9dad5654047ebbe623cce9dbf7b38
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\metadata\67\67e9dad5654047ebbe623cce9dbf7b38
+      ProjectPath: Library\metadata\67\67e9dad5654047ebbe623cce9dbf7b38
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: SUPER CACHORRO QUENTE\Library\metadata\f4\f48df919adea4fa095a7407e773e5aa4
+      FullPath: C:\Users\phtri\Documents\GitHub\Dactics\SUPER CACHORRO QUENTE\Library\metadata\f4\f48df919adea4fa095a7407e773e5aa4
+      ProjectPath: Library\metadata\f4\f48df919adea4fa095a7407e773e5aa4
+      OriginalPath: 
+      Status: 3
+      Staged: 0
   - CommitID: 306264ff636bb2919ec4541e7023bc5aa1820b09
     MergeA: 
     MergeB: 
